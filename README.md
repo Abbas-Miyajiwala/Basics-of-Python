@@ -8,6 +8,11 @@
 
 <p>I have tried to explain everything in detail so please go through the comments</p>
 
+<p>To use Jupyter Notebook, you can download these files and either use <strong>Anaconda</strong> (Popular tool for Python Development) or you can use <strong>Visual Studio code</strong>.</p>
+<hr>
+<a href = "https://code.visualstudio.com/docs/datascience/jupyter-notebooks">Click here</a> to learn how to use Jupyter Notebooks is VS Code<br>
+<a href = "https://www.anaconda.com/download">Click here</a> to download Anaconda
+<hr>
 <p>I hope that it helps you and adds some value in your career</p>
 
 <p>This repo will be frequently updated so keep an eye on it.</p>
