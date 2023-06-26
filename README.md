@@ -1,4 +1,4 @@
-<h1 align='center'>Basics-of-Python</h1>
+<h1 align = 'center'>Basics-of-Python</h1>
 <h4 align = 'center'><i>Hello Friends, I am Abbas Miyajiwala, Student at Jain(Deemed-to-be-University) currently studying BCA.</i></h4>
 <h3 align = 'center'>This is a repo containing a collection of Jupyter Notebooks explaining the basics of Python</h3>
 
